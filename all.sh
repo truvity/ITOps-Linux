@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Version Software
-export golang_version=1.21
+export golang_version=1.18
 
 
 
